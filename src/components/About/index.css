@@ -1,0 +1,73 @@
+.about-container {
+    background-image: url("https://res.cloudinary.com/sinha/image/upload/v1729073892/Sinha/j6xl5y3px8g0eet64cja.png");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.about-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 300;
+}
+.about-description {
+    color: #B0FAFF;
+    font-size: 16px;
+    width: 703px;
+    height: 48px;
+    margin: 10px;
+}
+.about-button {
+    color: #0B2A2D;
+    background-color: #CDFCFF;
+    height: 40px;
+    width: 90px;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    margin: 20px;
+}
+.lists-container {
+    background-color: #08252A;
+    height: 400px;
+    width: 744px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.top {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+.item-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 290.5px;
+    height: 120px;
+    text-align: left;
+    padding: 20px;
+}
+.logo {
+    height: 24px;
+    width: 24px;
+    margin: 10px;
+}
+.list-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 300;
+    margin: 10px;
+}
+.list-para {
+    color: #61F0FE;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 10px;
+}

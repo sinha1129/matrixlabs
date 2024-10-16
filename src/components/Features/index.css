@@ -1,0 +1,116 @@
+.features-container {
+    background-image: url("https://res.cloudinary.com/sinha/image/upload/v1729065096/Sinha/wvbmkb7jiaxbszcrz7bz.png");
+    height: 100vh;
+    padding: 40px;
+}
+
+.text-containers {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.container-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 504px;
+    width: 280px;
+    background-color: #0C2B2F;
+    border-top-left-radius: 60px;
+    padding: 40px;
+    border: 2px solid #0F373C;
+    text-align: center;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 1px solid #0E8B9A;
+}
+.rectangle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    background-color: #0E8B9A;
+    padding: 20px;
+    border-radius: 20px;
+}
+.white-rectangle {
+    width: 53px;
+    height: 44px;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: large;
+    text-align: center;
+}
+.trade-heading {
+    color: #ffffff;
+    font-size: 24px;
+    margin: 12px;
+}
+.content {
+    color: #B0FAFF;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.container-middle {
+    height: 504px;
+    width: 608px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0px;
+    padding-top: 0;
+    padding-bottom: 80px;
+
+}
+.market-container {
+    height: 198px;
+    background-color: #0C2B2F;
+    border: 1px solid #0E8B9A;
+    border-radius: 10px;
+    padding: 40px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.market-heading {
+    text-align: left;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.empty-container {
+    width: 608px;
+    height: 290px;
+    background-color: #0C2B2F;
+    margin-top: 10px;
+    border: 1px solid #0E8B9A;
+}
+
+.container-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 504px;
+    width: 280px;
+    background-color: #0C2B2F;
+    border-top-right-radius: 60px;
+    padding: 40px;
+    border: 2px solid #0F373C;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 1px solid #0E8B9A;
+}
+.image {
+    height: 236px;
+    width: 236px;
+    z-index: 10;
+    margin-bottom: 20px;
+}

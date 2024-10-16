@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo-container {
+    display: flex;
+    flex-direction: row;
+}
+.text-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #0F373C;
+    border-radius: 20px;
+    width: 40%;
+    height: 60px;
+    color: #B0FAFF;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 280px;
+}
+.nav-item {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 100;
+}
+.login-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 70px;
+}
+.login-text {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 200;
+    margin-top: 8px;
+
+}
+.whitepaper-button {
+    background-color: #CDFCFF;
+    height: 45px;
+    width: 120px;
+    border-radius: 15px;
+    color: #0F373C;
+    font-size: 18px;
+    margin-left: 15px;
+    font-weight: 400;
+}

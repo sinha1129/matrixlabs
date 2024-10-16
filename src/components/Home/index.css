@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+.main-container {
+    width: 100vw;
+    background-image: url("https://res.cloudinary.com/sinha/image/upload/v1729057001/Sinha/mlrkljkwbq3tphbcutxp.png");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg-container {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 170px;
+} 
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    padding-top: 100px;
+    width: 1440px;
+    height: 300px;
+}
+.heading {
+    font-size: 48px;
+    text-align: center;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+.span {
+    background-color: #CDFCFF;
+    border-radius: 30px;
+    width: 40px;
+    height: 30px;
+    color: black;
+    font-size: 45px;
+    padding: 6px;
+}
+.description {
+    color: #B0FAFF;
+    font-family: "Roboto";
+    margin: 20px;
+    font-size: 16px;
+}
+.open-button {
+    background: #8BF9E803;
+    color: #ffffff;
+    width: 131px;
+    height: 44px;
+    background-color: transparent;
+    border-radius: 12px;
+    border: 1px solid #8BF9E8; 
+
+}
